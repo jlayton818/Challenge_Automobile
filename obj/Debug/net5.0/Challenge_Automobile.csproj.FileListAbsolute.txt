@@ -1,0 +1,15 @@
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/bin/Debug/net5.0/Challenge_Automobile.deps.json
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/bin/Debug/net5.0/Challenge_Automobile.runtimeconfig.json
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/bin/Debug/net5.0/Challenge_Automobile.runtimeconfig.dev.json
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/bin/Debug/net5.0/Challenge_Automobile.dll
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/bin/Debug/net5.0/ref/Challenge_Automobile.dll
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/bin/Debug/net5.0/Challenge_Automobile.pdb
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.csproj.AssemblyReference.cache
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.AssemblyInfoInputs.cache
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.AssemblyInfo.cs
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.csproj.CoreCompileInputs.cache
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.dll
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/ref/Challenge_Automobile.dll
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.pdb
+/Users/laytonjd/Desktop/IT2040/Challenge_Automobile/obj/Debug/net5.0/Challenge_Automobile.genruntimeconfig.cache
